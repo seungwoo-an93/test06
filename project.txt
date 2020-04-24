@@ -1,0 +1,2 @@
+a-bran : write, delete method
+b-bran : reply, delete method
